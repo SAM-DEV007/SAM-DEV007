@@ -2,8 +2,7 @@
 I am [**Samyak Waghdhare**](https://www.linkedin.com/in/samyak-w-595753289/) from **India**, an aspiring software engineer. Currently pursuing studies in the field of **Computer Science and Engineering**,
 with specializations in **Artificial Intelligence and Machine Learning**.
 
-## GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAM-DEV007&show_icons=true&theme=radical&hide_border=true&rank_icon=github&hide_title=true&include_all_commits=true)
+
 
 ## Languages
 ### Known
