@@ -34,6 +34,18 @@ with specializations in **Artificial Intelligence and Machine Learning**.
 ### Most Used
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAM-DEV007&layout=compact&hide=PureBasic&hide_title=true&langs_count=10)
 
+## Badges
+<details>
+  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+      <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+    </a>
+  </div>
+</details>
+
 ## Reach out to me
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAM-DEV007)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyak-w-595753289/)
