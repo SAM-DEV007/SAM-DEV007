@@ -2,6 +2,8 @@
 I am [**Samyak Waghdhare**](https://www.linkedin.com/in/samyak-w-595753289/) from **India**, an aspiring software engineer. Currently pursuing studies in the field of **Computer Science and Engineering**,
 with specializations in **Artificial Intelligence and Machine Learning**.
 
+More info: [Self-introduction](https://drive.google.com/file/d/1lQHyz9_RqRcLHZS_REH6kktsOBWzGExP/view?usp=sharing)
+
 ## GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAM-DEV007&show_icons=true&theme=radical&hide_border=true&rank_icon=github&hide_title=true)
 
@@ -33,21 +35,6 @@ with specializations in **Artificial Intelligence and Machine Learning**.
 
 ### Most Used
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAM-DEV007&layout=compact&hide=PureBasic&hide_title=true&langs_count=10)
-
-## Badges
-<details>
-  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-    <a href="https://gssoc.girlscript.tech/leaderboard">
-      <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-    </a>
-  </div>
-</details>
 
 ## Reach out to me
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAM-DEV007)
