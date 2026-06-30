@@ -1,9 +1,8 @@
 ## Hi there 👋
-I am [**Samyak Waghdhare**](https://www.linkedin.com/in/samyak-w-595753289/) from **India**, an aspiring software engineer. Currently pursuing studies in the field of **Computer Science and Engineering**,
-with specializations in **Artificial Intelligence and Machine Learning**.
+I am [**Samyak Waghdhare**](https://www.linkedin.com/in/samyak-w-595753289/) from **India**. Creating stuff 'cause I can ;)
 
 ## GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAM-DEV007&show_icons=true&theme=radical&hide_border=true&rank_icon=github&hide_title=true)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=SAM-DEV007&show_icons=true&theme=radical&hide_border=true&rank_icon=github&hide_title=true)
 
 ## Languages
 ### Known
@@ -32,7 +31,7 @@ with specializations in **Artificial Intelligence and Machine Learning**.
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Most Used
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAM-DEV007&layout=compact&hide=PureBasic&hide_title=true&langs_count=10)
+![Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SAM-DEV007&layout=compact&hide=PureBasic&hide_title=true&langs_count=10)
 
 ## Reach out to me
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAM-DEV007)
