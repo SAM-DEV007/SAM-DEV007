@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am [**Samyak Waghdhare**](https://www.linkedin.com/in/samyak-w-595753289/) from **India**. Creating stuff 'cause I can ;)
+I am [**Samyak Waghdhare**](https://www.linkedin.com/in/samyak-w-595753289/) from **India**. Creating stuff just 'cause I can ;)
 
 ## GitHub stats
 ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=SAM-DEV007&show_icons=true&theme=radical&hide_border=true&rank_icon=github&hide_title=true)
