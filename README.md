@@ -1,4 +1,3 @@
-## About Me
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=SAM-DEV007&theme=tokyonight&hostname=root)](https://github.com/SAM-DEV007)
 
 ## Tech Stack
