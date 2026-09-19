@@ -1,0 +1,118 @@
+<svg width="1200" height="50" viewBox="0 0 1200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="beskar-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669" stop-opacity="0.2"/>
+      <stop offset="20%" stop-color="#10B981" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#34D399" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#10B981" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#059669" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <linearGradient id="soup-bowl" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#9A3412"/>
+      <stop offset="50%" stop-color="#7C2D12"/>
+      <stop offset="100%" stop-color="#431407"/>
+    </linearGradient>
+
+    <style>
+      @keyframes grogu-cozy {
+        0%, 100% { transform: translateY(0px); }
+        50%      { transform: translateY(-1.5px); }
+      }
+
+      @keyframes steam-rise {
+        0% {
+          opacity: 0;
+          transform: translateY(0) scaleX(0.8);
+        }
+        50% {
+          opacity: 0.75;
+          transform: translateY(-4px) scaleX(1.1);
+        }
+        100% {
+          opacity: 0;
+          transform: translateY(-9px) scaleX(1.3);
+        }
+      }
+
+      @keyframes sparkle-twinkle {
+        0%, 100% { opacity: 0.3; transform: scale(0.8); }
+        50%      { opacity: 1; transform: scale(1.2); }
+      }
+
+      .cozy-grogu {
+        animation: grogu-cozy 3.2s ease-in-out infinite;
+        transform-origin: 50px 25px;
+      }
+
+      .steam-1 {
+        animation: steam-rise 2s ease-out infinite;
+        transform-origin: 50px 25px;
+      }
+
+      .steam-2 {
+        animation: steam-rise 2.2s ease-out infinite 0.7s;
+        transform-origin: 54px 25px;
+      }
+
+      .sparkle {
+        animation: sparkle-twinkle 2s ease-in-out infinite;
+        transform-origin: 430px 25px;
+      }
+      .sparkle-r {
+        animation: sparkle-twinkle 2s ease-in-out infinite 1s;
+        transform-origin: 770px 25px;
+      }
+    </style>
+  </defs>
+
+  <g class="cozy-grogu">
+    <path d="M 38 22 C 26 20, 10 18, 3 23 C 10 28, 26 28, 38 26 Z" fill="#86EFAC"/>
+    <path d="M 36 23 C 26 21, 14 20, 7 23 C 14 26, 26 26, 36 25 Z" fill="#FDA4AF" opacity="0.85"/>
+
+    <path d="M 62 22 C 74 20, 90 18, 97 23 C 90 28, 74 28, 62 26 Z" fill="#86EFAC"/>
+    <path d="M 64 23 C 74 21, 86 20, 93 23 C 86 26, 74 26, 64 25 Z" fill="#FDA4AF" opacity="0.85"/>
+
+    <rect x="34" y="30" width="32" height="15" rx="5" fill="#D4B996"/>
+    <ellipse cx="50" cy="32" rx="14" ry="3.5" fill="#C2A278"/>
+
+    <ellipse cx="50" cy="22" rx="15" ry="11.5" fill="#86EFAC"/>
+    <path d="M 45 15 Q 50 14 55 15" stroke="#4ADE80" stroke-width="0.9" stroke-linecap="round" fill="none"/>
+
+    <path d="M 40 21 Q 44 17 48 21" stroke="#0F172A" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <path d="M 52 21 Q 56 17 60 21" stroke="#0F172A" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+    <ellipse cx="50" cy="24" rx="1.2" ry="0.8" fill="#4ADE80"/>
+    <circle cx="39" cy="24" r="2" fill="#F472B6" opacity="0.35"/>
+    <circle cx="61" cy="24" r="2" fill="#F472B6" opacity="0.35"/>
+
+    <ellipse cx="50" cy="32" rx="9" ry="5.5" fill="url(#soup-bowl)"/>
+    <ellipse cx="50" cy="30" rx="7.5" ry="2.2" fill="#CA8A04"/>
+
+    <ellipse cx="42" cy="32" rx="2.2" ry="1.8" fill="#86EFAC"/>
+    <ellipse cx="58" cy="32" rx="2.2" ry="1.8" fill="#86EFAC"/>
+
+    <path class="steam-1" d="M 49 27 Q 47 24 50 21" stroke="#E2E8F0" stroke-width="1" stroke-linecap="round" fill="none"/>
+    <path class="steam-2" d="M 52 26 Q 54 23 51 20" stroke="#E2E8F0" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <line x1="115" y1="25" x2="410" y2="25" stroke="url(#beskar-line)" stroke-width="3" stroke-linecap="round"/>
+  <line x1="115" y1="25" x2="410" y2="25" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round"/>
+
+  <g class="sparkle">
+    <path d="M 430 25 L 433 21 L 430 17 L 427 21 Z" fill="#059669"/>
+    <circle cx="430" cy="21" r="1.5" fill="#34D399"/>
+  </g>
+
+  <text x="600" y="30" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-weight="800" font-size="14" letter-spacing="4" fill="#047857">
+    ✦ THIS IS THE WAY ✦
+  </text>
+
+  <g class="sparkle-r">
+    <path d="M 770 25 L 773 21 L 770 17 L 767 21 Z" fill="#059669"/>
+    <circle cx="770" cy="21" r="1.5" fill="#34D399"/>
+  </g>
+
+  <line x1="790" y1="25" x2="1185" y2="25" stroke="url(#beskar-line)" stroke-width="3" stroke-linecap="round"/>
+  <line x1="790" y1="25" x2="1185" y2="25" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round"/>
+</svg>
