@@ -67,8 +67,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SAM-DEV007&layout=compact&hide=Jupyter%20Notebook%2CPureBasic&hide_title=true&langs_count=10&card_width=400&bg_color=08090C&border_color=E60C2C&text_color=B0B5BA&border_radius=8" />
-  <source media="(prefers-color-scheme: light)" srcset="\https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SAM-DEV007&layout=compact&hide=Jupyter%20Notebook%2CPureBasic&hide_title=true&langs_count=10&card_width=400&bg_color=050D1A&border_color=00E5FF&text_color=CADBE8&border_radius=8" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SAM-DEV007&layout=compact&hide=PureBasic,Jupyter%20Notebook&hide_title=true&langs_count=10&card_width=400" alt="Top Languages" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SAM-DEV007&layout=compact&hide=Jupyter%20Notebook%2CPureBasic&hide_title=true&langs_count=10&card_width=400&bg_color=050D1A&border_color=00E5FF&text_color=CADBE8&border_radius=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SAM-DEV007&layout=compact&hide=PureBasic%2CJupyter%20Notebook&hide_title=true&langs_count=10&card_width=400" alt="Top Languages" />
 </picture>
 
 </div>
